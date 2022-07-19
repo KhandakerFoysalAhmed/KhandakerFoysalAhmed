@@ -1,5 +1,3 @@
-
-
 ### Hi! there  
 ![Khandaker Foysal Ahmed](https://media-exp2.licdn.com/dms/image/C4D16AQHqOAUlusgKtA/profile-displaybackgroundimage-shrink_350_1400/0/1619897385834?e=1663804800&v=beta&t=ocUnsief5P_Vjo2Iv4rPRC3F3wQADs5kdpi4SwhiFxk)  
   
@@ -156,16 +154,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
 <br />
-
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <h1 align="center">Hi 👋, I'm Khandaker Foysal Ahmed</h1>
 <h3 align="center">WordPress Developer</h3>
