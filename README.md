@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **contact@ademinfo.com**
 
-- 📄 Know about my experiences [Please ask me to send my Resume](Please ask me to send my Resume)
+- 📄 Know about my experiences [Please ask me to send my Resume]
 
 - ⚡ Fun fact **I donot like fun**
 
