@@ -187,27 +187,15 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/109558682/179851196-c884e6d6-91e1-4e1c-aac0-1505c783217e.jpg" align="left" height="400" width="1000"/>
-<br/>
-<br/>
-<br/>
-<br/>
 
+<br/>
+<br/>
 # 🏆 Graphic Design
-
 <br/>
 <br/>
-    
 ![Career Portfolio 01](https://user-images.githubusercontent.com/109558682/179854471-d1b91d28-8c02-4529-8826-a27b10191572.png)
 
-<br/>
-<br/>
-![Business Card White](https://user-images.githubusercontent.com/109558682/179855293-e89fddf5-8d3e-4019-a113-1745ea803c36.png)
-<br/>
-<br/>
-![Digital Illustration White](https://user-images.githubusercontent.com/109558682/179855363-6cadaf56-a12c-4211-a824-a91b98e235ad.png)
-<br/>
-<br/>
-![Website Design White](https://user-images.githubusercontent.com/109558682/179855405-04656a7c-9a1e-417b-b4aa-24da22825292.png)
+
 
 
 
