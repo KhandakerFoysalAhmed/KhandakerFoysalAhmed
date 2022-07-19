@@ -130,7 +130,7 @@
 <br/>  
 
 
-## Connect with me  
+# 📫 Connect with me  
 
 
 ### 📫 How to reach me **contact@ademinfo.com**  
@@ -169,7 +169,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khandakerfoysalahmed&" alt="khandakerfoysalahmed" /></p>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/renaissancespub) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khandakerfoysalahmed/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/khandakerfoysalahmed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/twi_renaissance) 
 
 # 💻 Tech Stack:
@@ -185,11 +185,13 @@
 <br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/109558682/179851196-c884e6d6-91e1-4e1c-aac0-1505c783217e.jpg" align="left" height="400" width="1000"/>
+<br/>
+<br/>
 
 ### 😂 It's really difficult ## 🏆 Web Design is part of Graphic Design
 <br/>
 <br/>
     
-<img src="https://github.com/KhandakerFoysalAhmed/KhandakerFoysalAhmed/files/9144884/KFA.Career.Portfolio.pdf" align="left" height="1000" width="600" />
+<img src="https://github.com/KhandakerFoysalAhmed/KhandakerFoysalAhmed/files/9144884/KFA.Career.Portfolio.pdf" align="left" height="700" width="500" />
 
 
