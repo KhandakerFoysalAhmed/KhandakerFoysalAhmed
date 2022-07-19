@@ -2,6 +2,8 @@
 <h3 align="center">WordPress Developer</h3>
 <br/>
 <br/>
+![Bike](https://user-images.githubusercontent.com/109558682/179848434-6ace17ed-e042-496e-a298-88d4e9a4262b.png)
+
 
 <img src="https://media-exp2.licdn.com/dms/image/C4D16AQHqOAUlusgKtA/profile-displaybackgroundimage-shrink_350_1400/0/1619897385834?e=1663804800&v=beta&t=ocUnsief5P_Vjo2Iv4rPRC3F3wQADs5kdpi4SwhiFxk" align="left" height="300" width="1000" />  
 
