@@ -1,14 +1,10 @@
 ### Hi 👋, I'm Khandaker Foysal Ahmed  
-<img src="https://media-exp2.licdn.com/dms/image/C4D16AQHqOAUlusgKtA/profile-displaybackgroundimage-shrink_350_1400/0/1619897385834?e=1663804800&v=beta&t=ocUnsief5P_Vjo2Iv4rPRC3F3wQADs5kdpi4SwhiFxk" align="left" height="300" width="800" />  
-  
-
+<img src="https://media-exp2.licdn.com/dms/image/C4D16AQHqOAUlusgKtA/profile-displaybackgroundimage-shrink_350_1400/0/1619897385834?e=1663804800&v=beta&t=ocUnsief5P_Vjo2Iv4rPRC3F3wQADs5kdpi4SwhiFxk" align="left" height="300" width="1000" />  
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -134,10 +130,7 @@
 
 
 ## Github Stats  
-
-
-### 👯 I’m looking to collaborate on **GitHub**  
-<img src="https://github-readme-stats.vercel.app/api?username=KhandakerFoysalAhmed &show_icons=true&count_private=true&hide_border=true" align="left" />  
+  
 
 <br/>  
 
@@ -151,12 +144,12 @@
 
 <br/>  
 
+  
+
 <br/>  
 
-<div align="center"></div>
+
 <br />
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <h1 align="center">Hi 👋, I'm Khandaker Foysal Ahmed</h1>
 <h3 align="center">WordPress Developer</h3>
 
