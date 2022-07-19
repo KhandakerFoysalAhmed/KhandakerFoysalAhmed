@@ -4,31 +4,36 @@
 <br/>
 
 <img src="https://media-exp2.licdn.com/dms/image/C4D16AQHqOAUlusgKtA/profile-displaybackgroundimage-shrink_350_1400/0/1619897385834?e=1663804800&v=beta&t=ocUnsief5P_Vjo2Iv4rPRC3F3wQADs5kdpi4SwhiFxk" align="left" height="300" width="1000" />  
-<br/>  
 
-- 🔭 I’m currently working on **WordPress Development**
-
-- 🌱 I’m currently learning **Digital Marketing**
-
-- 👯 I’m looking to collaborate on **GitHub**
-
-- 🤝 I’m looking for help with **WordPress Development**
-
-- 👨‍💻 All of my projects are available at [https://www.instagram.com/khandakerfoysalahmed/](https://www.instagram.com/khandakerfoysalahmed/)
-
-- 📝 I regularly write articles on [ademinfo.com](ademinfo.com)
-
-- 💬 Ask me about **Web Design and Development**
-
-- 📫 How to reach me **contact@ademinfo.com**
-
-- 📄 Know about my experiences [Please ask me to send my Resume]
-
-- ⚡ Fun fact **I donot like fun**
+<br/> 
 <br/>
 <br/>
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
+🔭 I’m currently working on **WordPress Development**
+
+🌱 I’m currently learning **Digital Marketing**
+
+👯 I’m looking to collaborate on **GitHub**
+
+🤝 I’m looking for help with **WordPress Development**
+
+👨‍💻 All of my projects are available at [https://www.instagram.com/khandakerfoysalahmed/]
+
+📝 I regularly write articles on [ademinfo.com]
+
+💬 Ask me about **Web Design and Development**
+
+📫 How to reach me **contact@ademinfo.com**
+
+📄 Know about my experiences [Please ask me to send my Resume]
+
+⚡ Fun fact **I'm not too fond of Fun**
+<br/>
+<br/>
+<br/>
+<br/>
+#My Skill Set  
+<table><tr><td valign="top" width="34%">
 
 ### Frontend  
 <div align="center">  
