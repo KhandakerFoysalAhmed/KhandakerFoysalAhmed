@@ -181,9 +181,15 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br/>
 <br/>
-### 😂 Random Dev Meme
+### 😂 It's really difficult
+<br/>
+<br/>
 <img src="https://user-images.githubusercontent.com/109558682/179851196-c884e6d6-91e1-4e1c-aac0-1505c783217e.jpg" align="left" height="400" width="1000"/>
+
+### 😂 It's really difficult ## 🏆 Web Design is part of Graphic Design
+<br/>
+<br/>
     
-<img src="https://user-images.githubusercontent.com/109558682/179848434-6ace17ed-e042-496e-a298-88d4e9a4262b.png" align="left" height="500" width="1000" />
+<img src="https://github.com/KhandakerFoysalAhmed/KhandakerFoysalAhmed/files/9144884/KFA.Career.Portfolio.pdf" align="left" height="1000" width="600" />
 
 
