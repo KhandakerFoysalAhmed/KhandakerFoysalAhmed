@@ -1,12 +1,10 @@
-### Hi 👋,
+<h1 align="center">Hi 👋, I'm Khandaker Foysal Ahmed</h1>
 
 <img src="https://media-exp2.licdn.com/dms/image/C4D16AQHqOAUlusgKtA/profile-displaybackgroundimage-shrink_350_1400/0/1619897385834?e=1663804800&v=beta&t=ocUnsief5P_Vjo2Iv4rPRC3F3wQADs5kdpi4SwhiFxk" align="left" height="300" width="1000" />  
 <br/>  
 
-<h1 align="center">Hi 👋, I'm Khandaker Foysal Ahmed</h1>
 <h3 align="center">WordPress Developer</h3>
-
-
+<br/>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
