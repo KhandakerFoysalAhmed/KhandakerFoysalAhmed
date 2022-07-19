@@ -1,6 +1,10 @@
-### Hi 👋, I'm Khandaker Foysal Ahmed  
+### Hi 👋,
+
 <img src="https://media-exp2.licdn.com/dms/image/C4D16AQHqOAUlusgKtA/profile-displaybackgroundimage-shrink_350_1400/0/1619897385834?e=1663804800&v=beta&t=ocUnsief5P_Vjo2Iv4rPRC3F3wQADs5kdpi4SwhiFxk" align="left" height="300" width="1000" />  
 <br/>  
+
+<h1 align="center">Hi 👋, I'm Khandaker Foysal Ahmed</h1>
+<h3 align="center">WordPress Developer</h3>
 
 
 ## My Skill Set  
@@ -150,8 +154,6 @@
 
 
 <br />
-<h1 align="center">Hi 👋, I'm Khandaker Foysal Ahmed</h1>
-<h3 align="center">WordPress Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khandakerfoysalahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khandakerfoysalahmed" /> </p>
 
