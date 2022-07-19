@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Khandaker Foysal Ahmed</h1>
+<h1 align="center">Hi👋, I'm Khandaker Foysal Ahmed</h1>
 <h3 align="center">WordPress Developer</h3>
 <br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/109558682/179848434-6ace17ed-e042-496e-a298-88d4e9a4262b.png" align="left" height="500" width="1000" /> 
-<br/> 
-<br/>
-<br/> 
-<br/>
 
+<br/> 
+<br/>
+# 👋 Daily activities
+<br/>
 🔭 I’m currently working on **WordPress Development**
 
 🌱 I’m currently learning **Digital Marketing**
@@ -28,8 +28,6 @@
 
 ⚡ Fun fact **I'm not too fond of Fun**
 
-<br/>
-<br/>
 <br/>
 <br/>
 
