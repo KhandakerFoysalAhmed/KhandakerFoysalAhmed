@@ -1,9 +1,31 @@
 <h1 align="center">Hi 👋, I'm Khandaker Foysal Ahmed</h1>
+<h3 align="center">WordPress Developer</h3>
+<br/>
+<br/>
 
 <img src="https://media-exp2.licdn.com/dms/image/C4D16AQHqOAUlusgKtA/profile-displaybackgroundimage-shrink_350_1400/0/1619897385834?e=1663804800&v=beta&t=ocUnsief5P_Vjo2Iv4rPRC3F3wQADs5kdpi4SwhiFxk" align="left" height="300" width="1000" />  
 <br/>  
 
-<h3 align="center">WordPress Developer</h3>
+- 🔭 I’m currently working on **WordPress Development**
+
+- 🌱 I’m currently learning **Digital Marketing**
+
+- 👯 I’m looking to collaborate on **GitHub**
+
+- 🤝 I’m looking for help with **WordPress Development**
+
+- 👨‍💻 All of my projects are available at [https://www.instagram.com/khandakerfoysalahmed/](https://www.instagram.com/khandakerfoysalahmed/)
+
+- 📝 I regularly write articles on [ademinfo.com](ademinfo.com)
+
+- 💬 Ask me about **Web Design and Development**
+
+- 📫 How to reach me **contact@ademinfo.com**
+
+- 📄 Know about my experiences [Please ask me to send my Resume]
+
+- ⚡ Fun fact **I donot like fun**
+<br/>
 <br/>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -126,30 +148,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
 
@@ -158,26 +158,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khandakerfoysalahmed" alt="khandakerfoysalahmed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/twi_renaissance" target="blank"><img src="https://img.shields.io/twitter/follow/twi_renaissance?logo=twitter&style=for-the-badge" alt="twi_renaissance" /></a> </p>
-
-- 🔭 I’m currently working on **WordPress Development**
-
-- 🌱 I’m currently learning **Digital Marketing**
-
-- 👯 I’m looking to collaborate on **GitHub**
-
-- 🤝 I’m looking for help with **WordPress Development**
-
-- 👨‍💻 All of my projects are available at [https://www.instagram.com/khandakerfoysalahmed/](https://www.instagram.com/khandakerfoysalahmed/)
-
-- 📝 I regularly write articles on [ademinfo.com](ademinfo.com)
-
-- 💬 Ask me about **Web Design and Development**
-
-- 📫 How to reach me **contact@ademinfo.com**
-
-- 📄 Know about my experiences [Please ask me to send my Resume]
-
-- ⚡ Fun fact **I donot like fun**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khandakerfoysalahmed&show_icons=true&locale=en&layout=compact" alt="khandakerfoysalahmed" /></p>
 
