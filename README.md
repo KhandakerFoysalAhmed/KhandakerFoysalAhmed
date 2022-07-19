@@ -190,10 +190,11 @@
 
 <br/>
 <br/>
-# 🏆 Graphic Design
+# 😂 It's really hard to complete ## 🏆 Graphic Design
 <br/>
 <br/>
-![Career Portfolio 01](https://user-images.githubusercontent.com/109558682/179854471-d1b91d28-8c02-4529-8826-a27b10191572.png)
+<img src="https://user-images.githubusercontent.com/109558682/179854471-d1b91d28-8c02-4529-8826-a27b10191572.png" align="left" height="800" width="1000" />
+
 
 
 
