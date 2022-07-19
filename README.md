@@ -189,12 +189,6 @@
 <img src="https://user-images.githubusercontent.com/109558682/179851196-c884e6d6-91e1-4e1c-aac0-1505c783217e.jpg" align="left" height="400" width="1000"/>
 
 <br/>
-<br/>
-# 😂 It's really difficult to complete ## 🏆 Graphic Design
-<br/>
-<br/>
-<img src="https://user-images.githubusercontent.com/109558682/179854471-d1b91d28-8c02-4529-8826-a27b10191572.png" align="left" height="1000" width="1000" />
-
 
 
 
