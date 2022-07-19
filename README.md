@@ -1,4 +1,3 @@
-![Career Portfolio 01](https://user-images.githubusercontent.com/109558682/179854471-d1b91d28-8c02-4529-8826-a27b10191572.png)
 <img src="https://user-images.githubusercontent.com/109558682/179848434-6ace17ed-e042-496e-a298-88d4e9a4262b.png" align="left" height="500" width="1000" />
 
 <h1 align="center">Hi👋, I'm Khandaker Foysal Ahmed</h1>
@@ -192,9 +191,10 @@
 <br/>
 
 # 🏆 Graphic Design
+
 <br/>
 <br/>
     
-<img src="https://user-images.githubusercontent.com/109558682/179854604-0f9aa220-7c58-4201-9f4c-472643eaf29d.png" align="left" height="500" width="1000" />
+![Career Portfolio 01](https://user-images.githubusercontent.com/109558682/179854471-d1b91d28-8c02-4529-8826-a27b10191572.png)
 
 
