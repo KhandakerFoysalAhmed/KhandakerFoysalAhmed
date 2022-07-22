@@ -126,7 +126,7 @@
 </td></tr></table> 
 <br/> 
 
-# 😂 It's very hard
+# 😂 It's very challenging to achieve
 
 <img src="https://user-images.githubusercontent.com/109558682/180323237-8d8b585d-0d8d-4864-af04-856863d8e438.jpg" align="left" height="500" width="1000" />
 <br/>
@@ -148,7 +148,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/renaissancespub) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khandakerfoysalahmed/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khandakerfoysalahmed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/twi_renaissance) 
 <br/>
 <br/>
-# 😂 It's very difficult to complete 
+# 😂 It's difficult to complete 
 <img src="https://user-images.githubusercontent.com/109558682/180322172-a1f47f25-f0ad-4cb7-8b98-b8b91d56344a.jpg" align="left" height="400" width="1000"/>
 <br/>
 <br/>
@@ -172,7 +172,6 @@
 <br/>
 
 # 📫 Connect with me 
-
 ### How to reach me **contact@ademinfo.com**  
 
 <div align="right">
