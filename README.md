@@ -125,7 +125,9 @@
 </div>
 </td></tr></table> 
 <br/> 
+
 # 😂 It's very hard
+
 <img src="https://user-images.githubusercontent.com/109558682/180323237-8d8b585d-0d8d-4864-af04-856863d8e438.jpg" align="left" height="500" width="1000" />
 <br/>
 <br/>
@@ -168,8 +170,11 @@
 <br/>
 <br/>
 <br/>
-# 📫 Connect with me  
+
+# 📫 Connect with me 
+
 ### How to reach me **contact@ademinfo.com**  
+
 <div align="right">
 <a href="https://github.com/KhandakerFoysalAhmed" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
