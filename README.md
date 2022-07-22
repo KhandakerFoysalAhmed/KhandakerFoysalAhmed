@@ -146,9 +146,12 @@
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/renaissancespub) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khandakerfoysalahmed/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khandakerfoysalahmed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/twi_renaissance) 
+
 <br/>
 <br/>
+
 # 😂 It's difficult to complete 
+
 <img src="https://user-images.githubusercontent.com/109558682/180322172-a1f47f25-f0ad-4cb7-8b98-b8b91d56344a.jpg" align="left" height="400" width="1000"/>
 <br/>
 <br/>
