@@ -123,14 +123,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 </div>
+</td></tr></table> 
+<br/> 
 # 😂 It's very hard
 <img src="https://user-images.githubusercontent.com/109558682/180323237-8d8b585d-0d8d-4864-af04-856863d8e438.jpg" align="left" height="500" width="1000" />
 <br/>
 <br/>
-
-</td></tr></table>  
-
-<br/>  
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khandakerfoysalahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khandakerfoysalahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khandakerfoysalahmed" alt="khandakerfoysalahmed" /></a> </p>
@@ -161,7 +160,7 @@
 <br/>
 <br/>
 
-# 😂 It's really difficult to achieve
+# 😂 It's really difficult
 <br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/109558682/180323703-6cb2ebfe-317f-4095-9607-ac268724368c.jpg" align="left" height="500" width="1000" />
