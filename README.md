@@ -13,7 +13,7 @@
 
 🤝 I’m looking for help with **WordPress Development**
 
-👨‍💻 All of my projects are available at [https://www.instagram.com/khandakerfoysalahmed/]
+👨‍💻 All of my projects are available on my "Laptop: ademi"
 
 📝 I regularly write articles on [ademinfo.com]
 
