@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-# 💻 My Skill Set  : Frontend Developer and Web Designer
+# 💻 My Skill Set  : Frontend Developer
 <br/>
 <br/>
 <table><tr><td valign="top" width="34%">
@@ -154,8 +154,9 @@
 # 😂 It's difficult to complete 
 
 <img src="https://user-images.githubusercontent.com/109558682/180322172-a1f47f25-f0ad-4cb7-8b98-b8b91d56344a.jpg" align="left" height="400" width="1000"/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 # 🏆 GitHub Trophies
 # ✍️ Random Dev Quote
