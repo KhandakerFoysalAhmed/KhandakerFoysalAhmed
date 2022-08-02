@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-# 💻 My Skill Set  
+# 💻 My Skill Set  : Frontend Developer and Web Designer
 <br/>
 <br/>
 <table><tr><td valign="top" width="34%">
