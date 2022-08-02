@@ -154,11 +154,16 @@
 # 😂 It's difficult to complete 
 
 <img src="https://user-images.githubusercontent.com/109558682/180322172-a1f47f25-f0ad-4cb7-8b98-b8b91d56344a.jpg" align="left" height="400" width="1000"/>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
 
 # 🏆 GitHub Trophies
+
+<br/>
+<br/>
+
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br/>
