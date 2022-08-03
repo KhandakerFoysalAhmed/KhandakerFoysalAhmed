@@ -11,11 +11,11 @@
 
 👯 I’m looking to collaborate on **GitHub**
 
-🤝 I’m looking for help with **WordPress Development**
+🤝 I’m looking for an employment as a **WordPress Developer/Frontend Developer**
 
 👨‍💻 All of my projects are available on my "Laptop: ademi"
 
-📝 I regularly write articles on [ademinfo.com]
+📝 I regularly write codes on ATOM
 
 💬 Ask me about **Web Design and Development**
 
