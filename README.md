@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on **WordPress Development**
 
-🌱 I’m currently learning **Digital Marketing**
+🌱 I’m going to complete **Digital Marketing**
 
 👯 I’m looking to collaborate on **GitHub**
 
