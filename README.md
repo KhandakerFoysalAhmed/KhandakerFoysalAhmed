@@ -9,7 +9,7 @@
 
 🌱 I’m going to complete **Digital Marketing**
 
-👯 I’m looking to collaborate on **GitHub**
+👯 I’ve collaborated on **GitHub**
 
 🤝 I’m looking for an employment as a **WordPress Developer/Frontend Developer**
 
