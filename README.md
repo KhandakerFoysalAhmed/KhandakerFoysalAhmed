@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-# 💻 My Skill Set  : Frontend Developer
+# 💻 My Skill Set  : Frontend Developer/WordPress Developer
 <br/>
 <br/>
 <table><tr><td valign="top" width="34%">
